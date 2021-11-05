@@ -30,4 +30,4 @@ def run():
             "No token has been provided. Please ensure that config.toml contains the bot token."
         )
         sys.exit(1)
-    bot.run(cfg["token"])
+    bot.run(cfg["Njg0MDUzMzY4MzM0NzEyOTI1.Xl0gWA.tzU7xMA9SaGeGEbMtILi-fmZlLs"])
